@@ -1,0 +1,23 @@
+.row 
+{
+    display: flex;
+    justify-content: space-between;
+
+}
+.day
+{
+    padding: 2%;
+}
+h1
+{
+    background-color: red;
+}
+footer
+{
+    height: 50px;
+    background-color: black;
+}
+div
+{
+    background-color: yellow;
+}

@@ -1,0 +1,13 @@
+#x
+{
+    height: 270px;
+    width: 2000px;
+}
+#container
+{
+    height:400px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    padding : 50px;
+}
